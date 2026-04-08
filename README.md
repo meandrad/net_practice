@@ -46,6 +46,8 @@ Durante a defesa:
 
 ## Recursos
 
+- NetPractice.1.7.tgz
+
 ### Conceitos de redes estudados
 
 Este projeto aborda explicitamente os seguintes conceitos de redes:
@@ -74,9 +76,4 @@ Ferramentas de IA foram utilizadas **apenas como suporte ao aprendizado**, em co
 
 - Esclarecimento de conceitos teóricos de redes (TCP/IP, máscara de sub-rede, gateway, camadas OSI)
 - Auxílio na interpretação dos logs exibidos pela interface de treinamento
-- Organização e estruturação da documentação (README)
-
-Nenhuma configuração de rede foi copiada diretamente de respostas geradas por IA.  
-Todas as soluções submetidas foram desenvolvidas manualmente, compreendidas e revisadas criticamente.
-
-A validação do aprendizado foi reforçada por meio de discussões e revisões com colegas.
+- Organização da documentação (README)
